@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-nznt(uu0g_z46*jgk49q^*yc5(!%0w1f=p@xc88n^3zs&3i65#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rvihara-full-stack.herokuapp.com']
 
 
 # Application definition
